@@ -1,0 +1,1 @@
+A simple React-Redux based Increment➕/Decrement➖ app that counts the total sum after ⬆️increase or decrease ⬇️ operation.
